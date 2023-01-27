@@ -1,2 +1,2 @@
 # actorg
-This is my first android app repo.test purpose
+This is my first android app repo.
